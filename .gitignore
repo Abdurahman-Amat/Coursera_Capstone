@@ -1,4 +1,5 @@
 /data
+/report
 web_parsing.ipynb
 DB_stations.ipynb
 Toronto_Postcode_Borough_Neighbourhood.csv
